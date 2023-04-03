@@ -33,7 +33,3 @@ function IsValid (target){
 
 
 
-/*
-lec8 task
-we cannot do a return statment on a constractor function beacuse its not a function its a object maker
-*/
