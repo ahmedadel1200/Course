@@ -1,0 +1,9 @@
+1- Get ,Set Methods and how to use 
+
+2- Object.defineProperty how to use
+
+3- different betwen Object.defineProperty and Object.defineProperties
+
+4- Object.defineProperty & Object.defineProperties why we use them
+
+5- different betwen Data and Accsesor,types of each of them
